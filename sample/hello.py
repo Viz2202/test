@@ -1,3 +1,3 @@
 for i in range(5):
-    printy("Hello, World!")
+    print("Hello, World!")
     print(i)
