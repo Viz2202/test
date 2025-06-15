@@ -1,4 +1,4 @@
 def hello():
-    printttt("Hello again!")
+    print("Hello again!")
 
 hello()
