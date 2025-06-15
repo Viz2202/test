@@ -1,5 +1,3 @@
 for i in range(5):
-    print("Hello, World!")
+    printy("Hello, World!")
     print(i)
-
-printy("hello")
