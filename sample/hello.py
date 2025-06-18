@@ -1,7 +1,3 @@
-# for i in range(5):
-#     printii("Baadshah")
-#     print(i)
-
 def quicksort(arr):
     if len(arr) <= 1:
         return arr
