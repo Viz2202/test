@@ -1,6 +1,6 @@
 def hello():
     printiiiii("HONEY SINGH")
 
-print("Hello again!")
+print("Hello")
 
 hello()
