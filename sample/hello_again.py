@@ -1,5 +1,5 @@
 def hello():
-    printiiiii("HONEY SINGH")
+    print("HONEY SINGH")
 
 print("Hello Guys")
 
