@@ -1,6 +1,6 @@
 def hello():
-    printyyyysss("HONEY SINGH")
+    print("HONEY SINGH")
 
-print("Hello Guys")
+print("Hello Guys, i am back!!!")
 
 hello()
