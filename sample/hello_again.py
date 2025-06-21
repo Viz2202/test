@@ -1,5 +1,5 @@
 def hello():
-    print("HONEY SINGH")
+    printyyyy("HONEY SINGH")
 
 print("Hello Guys")
 
