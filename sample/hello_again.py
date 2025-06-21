@@ -1,6 +1,8 @@
 def hello():
-    printiiiii("HONEY SINGH")
+    print("HONEY SINGH")
 
-print("Hello Guys")
+print("Hello Guys, i am back!!!")
 
 hello()
+
+1hello="hi"
