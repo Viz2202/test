@@ -1,7 +1,7 @@
 def hello():
     print("HONEY SINGH")
 
-print("Hello Guys, i am back!!!")
+print("Hello Guys")
 
 hello()
 
